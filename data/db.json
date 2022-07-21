@@ -1,0 +1,421 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "slug": "bitcoin",
+      "image": "https://bitcoin.org/img/icons/opengraph.png?1657703267",
+      "is_active": 1,
+      "first_historical_data": "2013-04-28T18:47:21.000Z",
+      "total_supply": 16950100,
+      "price": "417,187.16",
+      "last_historical_data": "2020-05-05T20:44:01.000Z",
+      "platform": null
+    },
+    {
+      "id": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "image": "https://static.bitlo.com/cryptologossvg/eth.svg",
+      "num_market_pairs": 6360,
+      "circulating_supply": 16950100,
+      "total_supply": 16950100,
+      "price": "27,363.02",
+      "max_supply": 21000000,
+      "last_updated": "2018-06-02T22:51:28.209Z",
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "platform": null,
+      "quote": {
+        "USD": {
+          "price": 1283.92,
+          "volume_24h": 7155680000,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": -0.152774,
+          "percent_change_24h": 0.518894,
+          "percent_change_7d": 0.986573,
+          "market_cap": 158055024432,
+          "market_cap_dominance": 51,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        },
+        "ETH": {
+          "price": 1,
+          "volume_24h": 772012,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": 0,
+          "percent_change_24h": 0,
+          "percent_change_7d": 0,
+          "market_cap": 17024600,
+          "market_cap_dominance": 12,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Tether",
+      "symbol": "USDT",
+      "slug": "tether",
+      "image": "https://static.bitlo.com/cryptologossvg/usdt.svg",
+      "num_market_pairs": 6360,
+      "circulating_supply": 16950100,
+      "total_supply": 16950100,
+      "price": "17.59",
+      "max_supply": 21000000,
+      "last_updated": "2018-06-02T22:51:28.209Z",
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "platform": null,
+      "quote": {
+        "USD": {
+          "price": 1283.92,
+          "volume_24h": 7155680000,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": -0.152774,
+          "percent_change_24h": 0.518894,
+          "percent_change_7d": 0.986573,
+          "market_cap": 158055024432,
+          "market_cap_dominance": 51,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        },
+        "ETH": {
+          "price": 1,
+          "volume_24h": 772012,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": 0,
+          "percent_change_24h": 0,
+          "percent_change_7d": 0,
+          "market_cap": 17024600,
+          "market_cap_dominance": 12,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "slug": "usd coin",
+      "image": "https://static.bitlo.com/cryptologossvg/usdc.svg",
+      "num_market_pairs": 6360,
+      "circulating_supply": 16950100,
+      "total_supply": 16950100,
+      "price": "17.601,607",
+      "max_supply": 21000000,
+      "last_updated": "2018-06-02T22:51:28.209Z",
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "platform": null,
+      "quote": {
+        "USD": {
+          "price": 1283.92,
+          "volume_24h": 7155680000,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": -0.152774,
+          "percent_change_24h": 0.518894,
+          "percent_change_7d": 0.986573,
+          "market_cap": 158055024432,
+          "market_cap_dominance": 51,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        },
+        "ETH": {
+          "price": 1,
+          "volume_24h": 772012,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": 0,
+          "percent_change_24h": 0,
+          "percent_change_7d": 0,
+          "market_cap": 17024600,
+          "market_cap_dominance": 12,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Aave",
+      "symbol": "AAEV",
+      "slug": "aave",
+      "image": "https://static.bitlo.com/cryptologossvg/aave.svg",
+      "num_market_pairs": 6360,
+      "circulating_supply": 16950100,
+      "total_supply": 16950100,
+      "price": "1,636.10",
+      "max_supply": 21000000,
+      "last_updated": "2018-06-02T22:51:28.209Z",
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "platform": null,
+      "quote": {
+        "USD": {
+          "price": 1283.92,
+          "volume_24h": 7155680000,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": -0.152774,
+          "percent_change_24h": 0.518894,
+          "percent_change_7d": 0.986573,
+          "market_cap": 158055024432,
+          "market_cap_dominance": 51,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        },
+        "ETH": {
+          "price": 1,
+          "volume_24h": 772012,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": 0,
+          "percent_change_24h": 0,
+          "percent_change_7d": 0,
+          "market_cap": 17024600,
+          "market_cap_dominance": 12,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "slug": "binance",
+      "image": "https://static.bitlo.com/cryptologossvg/bnb.svg",
+      "num_market_pairs": 6360,
+      "circulating_supply": 16950100,
+      "total_supply": 16950100,
+      "price": "17.57",
+      "max_supply": 21000000,
+      "last_updated": "2018-06-02T22:51:28.209Z",
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "platform": null,
+      "quote": {
+        "USD": {
+          "price": 1283.92,
+          "volume_24h": 7155680000,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": -0.152774,
+          "percent_change_24h": 0.518894,
+          "percent_change_7d": 0.986573,
+          "market_cap": 158055024432,
+          "market_cap_dominance": 51,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        },
+        "ETH": {
+          "price": 1,
+          "volume_24h": 772012,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": 0,
+          "percent_change_24h": 0,
+          "percent_change_7d": 0,
+          "market_cap": 17024600,
+          "market_cap_dominance": 12,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "COTI",
+      "symbol": "COTI",
+      "slug": "cotı",
+      "image": "https://static.bitlo.com/cryptologossvg/coti.svg",
+      "num_market_pairs": 6360,
+      "circulating_supply": 16950100,
+      "total_supply": 16950100,
+      "price": "9.40",
+      "max_supply": 21000000,
+      "last_updated": "2018-06-02T22:51:28.209Z",
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "platform": null,
+      "quote": {
+        "USD": {
+          "price": 1283.92,
+          "volume_24h": 7155680000,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": -0.152774,
+          "percent_change_24h": 0.518894,
+          "percent_change_7d": 0.986573,
+          "market_cap": 158055024432,
+          "market_cap_dominance": 51,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        },
+        "ETH": {
+          "price": 1,
+          "volume_24h": 772012,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": 0,
+          "percent_change_24h": 0,
+          "percent_change_7d": 0,
+          "market_cap": 17024600,
+          "market_cap_dominance": 12,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "slug": "cardano",
+      "image": "https://static.bitlo.com/cryptologossvg/ada.svg",
+      "num_market_pairs": 6360,
+      "circulating_supply": 16950100,
+      "total_supply": 16950100,
+      "price": "8.83",
+      "max_supply": 21000000,
+      "last_updated": "2018-06-02T22:51:28.209Z",
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "platform": null,
+      "quote": {
+        "USD": {
+          "price": 1283.92,
+          "volume_24h": 7155680000,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": -0.152774,
+          "percent_change_24h": 0.518894,
+          "percent_change_7d": 0.986573,
+          "market_cap": 158055024432,
+          "market_cap_dominance": 51,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        },
+        "ETH": {
+          "price": 1,
+          "volume_24h": 772012,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": 0,
+          "percent_change_24h": 0,
+          "percent_change_7d": 0,
+          "market_cap": 17024600,
+          "market_cap_dominance": 12,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "slug": "dogecoin",
+      "image": "https://static.bitlo.com/cryptologossvg/doge.svg",
+      "num_market_pairs": 6360,
+      "circulating_supply": 16950100,
+      "total_supply": 16950100,
+      "price": "1.25",
+      "max_supply": 21000000,
+      "last_updated": "2018-06-02T22:51:28.209Z",
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "platform": null,
+      "quote": {
+        "USD": {
+          "price": 1283.92,
+          "volume_24h": 7155680000,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": -0.152774,
+          "percent_change_24h": 0.518894,
+          "percent_change_7d": 0.986573,
+          "market_cap": 158055024432,
+          "market_cap_dominance": 51,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        },
+        "ETH": {
+          "price": 1,
+          "volume_24h": 772012,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": 0,
+          "percent_change_24h": 0,
+          "percent_change_7d": 0,
+          "market_cap": 17024600,
+          "market_cap_dominance": 12,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Terra",
+      "symbol": "LUNA",
+      "slug": "terra",
+      "image": "https://static.bitlo.com/cryptologossvg/luna.svg",
+      "num_market_pairs": 6360,
+      "circulating_supply": 16950100,
+      "total_supply": 16950100,
+      "price": "7.58",
+      "max_supply": 21000000,
+      "last_updated": "2018-06-02T22:51:28.209Z",
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "platform": null,
+      "quote": {
+        "USD": {
+          "price": 1283.92,
+          "volume_24h": 7155680000,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": -0.152774,
+          "percent_change_24h": 0.518894,
+          "percent_change_7d": 0.986573,
+          "market_cap": 158055024432,
+          "market_cap_dominance": 51,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        },
+        "ETH": {
+          "price": 1,
+          "volume_24h": 772012,
+          "volume_change_24h": -0.152774,
+          "percent_change_1h": 0,
+          "percent_change_24h": 0,
+          "percent_change_7d": 0,
+          "market_cap": 17024600,
+          "market_cap_dominance": 12,
+          "fully_diluted_market_cap": 952835089431.14,
+          "last_updated": "2018-08-09T22:53:32.000Z"
+        }
+      }
+    }
+  ],
+  "status": {
+    "timestamp": "2018-06-02T22:51:28.209Z",
+    "error_code": 0,
+    "error_message": "",
+    "elapsed": 10,
+    "credit_count": 1
+  }
+}
